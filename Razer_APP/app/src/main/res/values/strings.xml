@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Razer_APP</string>
+    <string name="store">STORE</string>
+    <string name="pc">PC</string>
+    <string name="viper">RAZER VIPER V3 PRO</string>
+    <string name="kishi">RAZER KISHI ULTRA</string>
+    <string name="firefly">RAZER FIREFLY V2</string>
+
+    <string name="viper_description">The GOAT of wireless esports mice returns to reshape the competitive scene. Featuring an ultra-lightweight design and best-in-class technologies, the Razer Viper V3 Pro is the undisputed choice for peak performance and handling—the perfect weapon designed with and trusted by pros.</string>
+    <string name="kishi_description">Enter a new era of mobile gaming with the power of a full-fledged pro console controller. The Razer Kishi Ultra forges into new terrain as the greatest mobile controller ever created. Meticulously designed with console-class ergonomics, immersive haptics, and Razer Chroma RGB, enjoy a true console gaming experience on mobile with zero compromise.</string>
+    <string name="firefly_description">Thinner. Brighter. Better. Turn it up and illuminate your battlestation with the new, improved Razer Firefly V2—an ultra-thin mouse mat designed for brilliant performance in every sense of the word.</string>
+</resources>
